@@ -1,0 +1,25 @@
+{
+  "name": "path_to_target",
+  "version": "1.0.0",
+  "description": "A function that traverses an object based on keys in an array and returns the value",
+  "main": "pathToTarget.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/festinalente/pathToTarget.git"
+  },
+  "keywords": [
+    "object",
+    "traversal",
+    "JavaScript"
+  ],
+  "engines": {
+    "npm": ">=8.0.0",
+    "node": " >= 17.0.0"
+  },
+  "author": "Tomás Eduardo Swift-Metcalfe",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/festinalente/pathToTarget/issues"
+  },
+  "homepage": "https://github.com/festinalente/pathToTarget#readme"
+}
